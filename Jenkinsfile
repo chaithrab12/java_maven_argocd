@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/your-repo/spring-boot-app.git'
+                git 'https://github.com/chaithrab12/java_maven_argocd.git'
             }
         }
 
