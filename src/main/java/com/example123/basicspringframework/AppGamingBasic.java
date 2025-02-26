@@ -2,6 +2,7 @@ package com.example123.basicspringframework;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+@SpringBootApplication
 public class AppGamingBasic {
 
 	public static void main(String[] args) {
